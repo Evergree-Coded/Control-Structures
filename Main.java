@@ -74,9 +74,9 @@ class Main {
     }*/
 
     //Task 3
-    String letter;
+    String letter "c";
     String str = "abcde";
-    letter = "c";
+    
     if(str.substring(0, 1).equals(letter)){
       System.out.println("The letter is a");
     }
